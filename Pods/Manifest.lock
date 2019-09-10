@@ -1,0 +1,34 @@
+PODS:
+  - IQKeyboardManagerSwift (6.3.0)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - PEPhotoCropEditor (1.3.1)
+  - SKPhotoBrowser (6.1.0)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - PEPhotoCropEditor
+  - SKPhotoBrowser
+  - Toaster
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - PEPhotoCropEditor
+    - SKPhotoBrowser
+    - Toaster
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  PEPhotoCropEditor: 613292fce009efd085e7aed975f1ebb3fec8bb7b
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: 160a49ad97ebd3d8e9b48753039fbef56c28be28
+
+COCOAPODS: 1.6.1
